@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Diagnose & Research",
-        "description": "Diagnosis is central to medical practice. It refers to knowing about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity and specificity of individual diagnostic tests, their predictive values.",
+        "description": "Diagnosis is central to medical practice. It refers to knowing about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity.",
         "img": "https://pro-theme.com/html/health/media/services/1.png"
     },
     {
@@ -20,7 +20,7 @@
     {
         "id": 4,
         "title": "Neurology",
-        "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems.",
+        "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions.",
         "img": "https://pro-theme.com/html/health/media/services/4.png"
     },
     {
@@ -32,7 +32,7 @@
     {
         "id": 6,
         "title": "Heart Center",
-        "description": "The Heart Center at Nationwide Children's Hospital has expertise, compassion and the most advanced technologies. As the leader in pediatric care, we offer cardiology services, cardiothoracic surgery, and everything else you would expect to find at a nationally-renowned heart center.",
+        "description": "The Heart Center at Nationwide Children's Hospital has expertise, compassion and the most advanced technologies. As the leader in pediatric care, we offer cardiology services.",
         "img": "https://pro-theme.com/html/health/media/services/6.png"
     }
 ]
