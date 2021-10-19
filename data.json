@@ -1,38 +1,38 @@
 [
     {
         "id": 1,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Diagnose & Research",
+        "description": "Diagnosis is central to medical practice. It refers to knowing about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity and specificity of individual diagnostic tests, their predictive values.",
+        "img": "https://pro-theme.com/html/health/media/services/1.png"
     },
     {
         "id": 2,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Dental Surgery",
+        "description": "Dental surgery is any of a number of medical procedures that involve artificially modifying dentition; in other words, surgery of the teeth, gums and jaw bones.",
+        "img": "https://pro-theme.com/html/health/media/services/2.png"
     },
     {
         "id": 3,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Cancer Oncology",
+        "description": "Oncology is a branch of medicine that deals with the prevention, diagnosis, and treatment of cancer. A medical professional who practices oncology is an oncologist.",
+        "img": "https://pro-theme.com/html/health/media/services/3.png"
     },
     {
         "id": 4,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Neurology",
+        "description": "Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of conditions and disease involving the central and peripheral nervous systems.",
+        "img": "https://pro-theme.com/html/health/media/services/4.png"
     },
     {
         "id": 5,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Medical Counseling",
+        "description": "The Medical Counselling Committee is an organisation under the Directorate General of Health Services affiliated to the Ministry of Health and Family Welfare, Government of India.",
+        "img": "https://pro-theme.com/html/health/media/services/9.png"
     },
     {
         "id": 6,
-        "title":"",
-        "description":"",
-        "img":""
+        "title": "Heart Center",
+        "description": "The Heart Center at Nationwide Children's Hospital has expertise, compassion and the most advanced technologies. As the leader in pediatric care, we offer cardiology services, cardiothoracic surgery, and everything else you would expect to find at a nationally-renowned heart center.",
+        "img": "https://pro-theme.com/html/health/media/services/6.png"
     }
 ]
